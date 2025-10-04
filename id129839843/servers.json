@@ -5,5 +5,12 @@
       "maxonline": 199,
       "name": "MOSCOW",
       "online": 1000
+    },
+        {
+      "color": "7CFC02",
+      "dopname": "(X2 АКЦИИ)",
+      "maxonline": 199,
+      "name": "Red",
+      "online": 1000
     }
   ]
