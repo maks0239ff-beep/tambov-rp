@@ -1,14 +1,14 @@
 [
     {
       "color": "FF0000",
-      "dopname": "(X2 АКЦИИ)",
+      "dopname": "2X",
       "maxonline": 19,
       "name": "MOSCOW",
       "online": 1000
     },
         {
       "color": "7CFC00",
-      "dopname": "(X2 АКЦИИ)",
+      "dopname": "",
       "maxonline": 199,
       "name": "Red",
       "online": 1000
