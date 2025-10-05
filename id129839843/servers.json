@@ -1,16 +1,9 @@
 [
     {
       "color": "FF0000",
-      "dopname": "• ТОП сервер",
-      "maxonline": 19,
+      "dopname": "Сервер на тех. обслуживание",
+      "maxonline": 50,
       "name": "MOSCOW",
-      "online": 1000
-    },
-        {
-      "color": "7CFC00",
-      "dopname": "",
-      "maxonline": 199,
-      "name": "Red",
-      "online": 1000
+      "online": 0
     }
   ]
