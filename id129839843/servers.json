@@ -1,11 +1,12 @@
 [
     {
-      "color": "FF0000",
-      "dopname": "Сервер на тех. обслуживание",
-      "maxonline": 50,
-      "name": "MOSCOW",
-      "online": 0,
-      "ip": "51.75.232.66",
-      "port": "1969"
+    "color": "#2ECC71",
+    "dopname": "Tambov Role Play",
+    "name": "1",
+    "Online": "3",
+    "maxOnline": "1000",
+    "ip": "51.75.232.66",
+    "port": 1969
+  }
     }
   ]
