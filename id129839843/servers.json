@@ -4,6 +4,8 @@
       "dopname": "Сервер на тех. обслуживание",
       "maxonline": 50,
       "name": "MOSCOW",
-      "online": 0
+      "online": 0,
+      "ip": "51.75.232.66",
+      "port": "1969"
     }
   ]
